@@ -1,0 +1,9 @@
+# Ignore all data files except for the README.md file
+/data/*
+!/data/README.md
+*.jpg
+
+# OS / Python / notebook clutter
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
